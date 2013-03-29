@@ -6,9 +6,9 @@ Format and validate a URL attribute in Active Record. This is an example gem cre
 
 Add this line to your application's Gemfile:
 
-	```ruby
-    gem 'urrl_formatter'
-	```
+ ```ruby
+ gem 'urrl_formatter'
+ ```
 
 And then execute:
 
