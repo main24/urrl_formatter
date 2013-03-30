@@ -1,4 +1,4 @@
-# UrrlFormatter
+# UrrlFormatter [![Build Status](https://api.travis-ci.org/Valmasso/urrl_formatter.png)](https://api.travis-ci.org/Valmasso/urrl_formatter)
 
 Format and validate a URL attribute in Active Record. This is an example gem created for [RailsCasts episode #301](http://railscasts.com/episodes/301-extracting-a-ruby-gem).
 
